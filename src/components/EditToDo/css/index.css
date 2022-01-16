@@ -1,0 +1,19 @@
+.Edit {
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #e7e7e7;
+  padding: 250px 50px;
+}
+input.editInput {
+  display: block;
+  width: 100%;
+  background-color: #fff;
+  padding: 50px 20px;
+  margin: 20px 0;
+  border: none;
+  font-size: 14px;
+}
+button {
+  font-size: 16px;
+}
